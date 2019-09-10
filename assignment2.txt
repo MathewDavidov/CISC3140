@@ -1,0 +1,6 @@
+Mathew Davidov
+NBA: The Analytics Movement
+
+
+     The game of basketball has evolved with tremendous strides throughout its existence. From the days where you could not dribble to today’s chessboard game, great progress has been made, for better or worse. Two of the most monumental moments in official basketball (primarily the NBA, the National Basketball Association) was the introduction of the shot clock, which is the 24-second timer in which you must shoot, and the three-point line. If an individual were to compare today’s iteration of basketball to years past, e.g. the 1960s, one would see a fundamentally different game. For example, the Phoenix Suns in the middle 2000s sparked a new philosophy. The more possessions you have an opportunity to score, the greater the chances the team will make more shots, resulting in more wins. This is not the only new philosophy “shined” on the NBA, as from around that point on the analytics movement started to gain traction. In this paper, I will examine the history of how the game is played. Primarily, the different philosophies teams have used to gain any competitive advantage possible, including the use of machine learning and various technology designated for efficient basketball. 
+
