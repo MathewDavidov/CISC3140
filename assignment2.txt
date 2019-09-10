@@ -16,3 +16,25 @@ paper, I will examine the history of how the game is played. Primarily, the diff
 teams have used to gain any competitive advantage possible, including the use of machine
 learning and various technology designated for efficient basketball. 
 
+
+-----
+Why is it an interesting topic to you? Basketball is one of my favorite things to do and I enjoy
+watching the NBA. Additionally, I enjoy learning about strategies implemented and that includes
+what I briefly described above.
+
+What do you already know or hope to learn more about before presenting? I know quite a bit about
+NBA/Basketball, but I hope to learn more on the statistical/technological aspect incorporated
+into the NBA.
+
+What do you hope to teach fellow classmates? Brief history, statistical aspect of NBA, and use of
+technology/programs/video.
+
+Brief outline of your presentation structure: Overview of topic (similar to paragraph above),
+introducing concepts/terminology that are important, outline of philosophies created from the
+“analytical movement”, and the things that contribute to the movement, e.g. programs created for
+analyzing the game (sportVU, Synergy), machine learning, statistics, and various other
+algorithms/math incorporation.
+
+
+
+https://docs.google.com/document/d/1mwUay_V9QZfhM13PjBiTra8Jdovs_eOr4V64B_bPJzo/edit?usp=sharing
