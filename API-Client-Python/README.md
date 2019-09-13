@@ -20,3 +20,7 @@ This will get a JSON object from the NBA statistics website endpoint and will di
 - B)
 
 `python app.py`
+
+## Screenshot of it working
+
+![NBA Leaders](/static/API-Client Proof NBA.jpg)
