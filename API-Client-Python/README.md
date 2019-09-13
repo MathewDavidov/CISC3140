@@ -6,15 +6,16 @@ This will get a JSON object from the NBA statistics website endpoint and will di
 
 - Python 3 is required
 
-## To run the Client
+## To Run the Client
  
 `pip install flask`
 
-### You can either do a or b
+### You can either do A or B
 
 - A)
 
 `export FLASK_APP=app.py` //on windows it's set instead of export
+
 `flask run`
 
 - B)
