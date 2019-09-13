@@ -24,4 +24,4 @@ This will get a JSON object from the NBA statistics website endpoint and will di
 
 ## Screenshot of it working
 
-![NBA Leaders](/static/API-Client Proof NBA.jpg)
+![NBA Leaders](/static/API-Client-Proof-NBA.jpg)
