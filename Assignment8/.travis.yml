@@ -1,3 +1,4 @@
+before_script: cd Assignment8
 language: python
 python:
   - "2.7"
