@@ -1,0 +1,35 @@
+SELECT AVG(Organized)
+FROM Feedback;
+
+SELECT MIN(Organized)
+FROM Feedback;
+
+SELECT MAX(Organized)
+FROM Feedback;
+
+SELECT AVG(SpokeClearly)
+FROM Feedback;
+
+SELECT MIN(SpokeClearly)
+FROM Feedback;
+
+SELECT MAX(SpokeClearly)
+FROM Feedback;
+
+SELECT AVG(Enthusiastic)
+FROM Feedback;
+
+SELECT MIN(Enthusiastic)
+FROM Feedback;
+
+SELECT MAX(Enthusiastic)
+FROM Feedback;
+
+SELECT AVG(Learned)
+FROM Feedback;
+
+SELECT MIN(Learned)
+FROM Feedback;
+
+SELECT MAX(Learned)
+FROM Feedback;

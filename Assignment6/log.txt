@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20191124230409
+**********************
+Transcript started, output file is log.txt
+PS C:\CISC3140\Assignment6> C:\sqlite3\sqlite3.exe database.db
+SQLite version 3.30.1 2019-10-10 20:19:45
+Enter ".help" for usage hints.
+sqlite> .read mydb.sql
+sqlite> .open database.db
+sqlite> .tables
+Feedback
+sqlite> .mode csv Feedback
+sqlite> .import 0786.csv Feedback
+sqlite> .mode column
+sqlite> .header on
+sqlite> DELETE FROM Feedback WHERE Organized="Presentation was well organized";
+sqlite> .output results.txt
+sqlite> .read commands.txt
+sqlite> .quit
+PS C:\CISC3140\Assignment6> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20191124230616
+**********************
