@@ -9,4 +9,4 @@ Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.1
 Flask-WTF==0.14.2
 requests==2.22.0
-urllib3==1.25.8
+urllib3==1.26.5
